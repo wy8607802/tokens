@@ -1,0 +1,11 @@
+{
+    "name": "RWAU Token",
+    "website": "https://app.adyen.ws/",
+    "description": "Fixed supply ERC20 token with 21,000,000 total supply, burn functionality and no transfer fees",
+    "explorer": "https://polygonscan.com/address/0x2f038b013a5bF3ab9cef2176c6243E464b24AEf9",
+    "type": "Polygon",
+    "symbol": "RWAU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2f038b013a5bF3ab9cef2176c6243E464b24AEf9"
+}
